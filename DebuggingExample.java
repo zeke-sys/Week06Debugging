@@ -10,7 +10,7 @@ public class DebuggingExample {
 		List<String> names = new ArrayList<String>();
 		
 		addNames(names);
-		int index = findIndexOfName(names, "Sam");
+		int index = findIndexOfName(names, "Tommy");
 		System.out.println(index);
 		
 		
